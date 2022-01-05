@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varjiliyas
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Web Developement and Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me varjiliyaskr@gmail.com
 
